@@ -4,6 +4,8 @@
 
 ## To Submit
 
+DATABASE NAME: tylehoff_project6
+
 * A link to your fork of this GitHub repository, having committed all the files you've changed and added. See below for further instructions.
 
 * A link to the GitHub repository you've started for your final project, with the milestones and issues you've created for your final project plan. See below!
