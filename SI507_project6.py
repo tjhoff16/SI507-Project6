@@ -116,7 +116,6 @@ def query_db():
     total_number_arkansas = cur.fetchall()
     return all_locations, beautiful_sites, natl_lakeshores, michigan_names, total_number_arkansas
 
-
 if __name__ == '__main__':
     command = None
     command = sys.argv[1]
@@ -138,19 +137,3 @@ if __name__ == '__main__':
         print (natl_lakeshores)
         print (michigan_names)
         print (total_number_arkansas)
-# Make sure to commit your database changes with .commit() on the database connection.
-
-
-
-# Write code to be invoked here (e.g. invoking any functions you wrote above)
-
-
-
-# Write code to make queries and save data in variables here.
-
-
-
-
-
-
-# We have not provided any tests, but you could write your own in this file or another file, if you want.
