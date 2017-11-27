@@ -6,6 +6,8 @@
 
 DATABASE NAME: tylehoff_project6
 
+I used argument variables to control the code a bit better: 'setup' will setup the database as appropriate, 'insert' will process the .csv files and insert the data into the database, 'search' will query the database as appropriate for the assignment and print out the results
+
 * A link to your fork of this GitHub repository, having committed all the files you've changed and added. See below for further instructions.
 
 * A link to the GitHub repository you've started for your final project, with the milestones and issues you've created for your final project plan. See below!
